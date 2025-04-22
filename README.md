@@ -42,9 +42,8 @@ Helpful functions not found in the standard libc or implemented with different b
 ### Bonus: Linked List Functions
 
 Functions to create and manipulate a generic singly linked list (`t_list`).
-*(Mark `[x]` if implemented)*
 
-*   `[ ]` Implemented:
+*   `[x]` Implemented:
     *   `ft_lstnew`: Creates a new list element.
     *   `ft_lstadd_front`: Adds an element to the beginning.
     *   `ft_lstadd_back`: Adds an element to the end.
